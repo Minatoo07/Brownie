@@ -51,7 +51,7 @@ const messages = ["I love Youuuu ", "Hehehehe", "I will never get tired of You"]
 
 const slides = [
   {
-    text: "Kavi remmeber, Apr 2 , thats the day we got commited , We have gone through a lot of happiness and sadness . But after we broke up all i see is the Happiness we had . Late night talks , giving kisses each other a 100 times , Watching Naruto and Hinata Marriage and Blush, You and me Konjifying when one is not in online , talking about our personal life etc... All the things we have done to make each other happy before the fight we had is all I think ",
+    text: "Kavi remember, Apr 2 , thats the day we got commited , We have gone through a lot of happiness and sadness . But after we broke up all i see is the Happiness we had . Late night talks , giving kisses each other a 100 times , Watching Naruto and Hinata Marriage and Blush, You and me Konjifying when one is not in online , talking about our personal life etc... All the things we have done to make each other happy before the fight we had is all I think ",
     image: "/First slide .jpg",
     layout: "horizontal-left",
     aspect: "portrait"
